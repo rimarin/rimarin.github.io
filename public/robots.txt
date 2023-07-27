@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rimarin.github.io/sitemap.xml
