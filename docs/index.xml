@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on ʕ•ᴥ•ʔ Ryzsardsky&#39;s blog</title>
+    <link>https://rimarin.github.io/</link>
+    <description>Recent content in Home on ʕ•ᴥ•ʔ Ryzsardsky&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>© Riccardo Marin</copyright><atom:link href="https://rimarin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://rimarin.github.io/about/</link>
+      <pubDate>Sun, 11 Jun 2023 20:22:35 +0200</pubDate>
+      
+      <guid>https://rimarin.github.io/about/</guid>
+      <description>About me Born in the year of the movie Matrix. Ever since I can remember, I&amp;rsquo;ve been fascinated by those ink-stained objects called books. Tireless reader interested in psychology, philosophy and history. Software engineer with a humanistic soul. My belonging: I feel European, Friulian and Italian, exactly in that order. Despite being Italian, but I can&amp;rsquo;t cook a proper carbonara. Trying to apply minimalism to many aspects of life, including this blog.</description>
+    </item>
+    
+  </channel>
+</rss>
