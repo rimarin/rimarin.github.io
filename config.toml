@@ -5,6 +5,7 @@ title = 'Riccardo Marin'
 copyright = "© Riccardo Marin"
 defaultContentLanguage = "en"
 theme = "hugo-bearcub"
+publishDir = "docs"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
