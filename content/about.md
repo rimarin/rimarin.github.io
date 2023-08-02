@@ -7,13 +7,13 @@ weight: 2
 ---
 ## About me
 Born in the year of the movie Matrix. Ever since I can remember, I've been fascinated by those ink-stained objects called books.
-[Tireless reader](https://www.goodreads.com/user/show/165963974-riccardo-marin) interested in psychology, philosophy and history. Software engineer with a humanistic soul. My belonging: I feel European, Friulian and Italian, exactly in that order. Sometimes [crazy filmmaker](https://www.youtube.com/@riccardomarin/). Despite being Italian, but I can't cook a proper carbonara. 
+[Tireless reader](https://www.goodreads.com/user/show/165963974-riccardo-marin) interested in psychology, philosophy and history. Software engineer with a humanistic soul. My belonging: I feel European, Friulian and Italian, exactly in that order. Occasional [eccentric filmmaker](https://www.youtube.com/@riccardomarin/). Despite being Italian, but I can't cook a proper carbonara. 
 Trying to apply minimalism to many aspects of life, including this blog. 
 ## The quest for a name
 For a long time I've been known as "Brancaleone". It was inspired by the main character of the movie "L'armata Brancaleone", an iconic movie from the 60s by Mario Monicelli. 
 The title of the movie is actually an idiomatic expression in Italian and could be used to describe Italian politics, for example.
 
-A few months ago I switched to Ryzsardsky. The reasons were quite simple: I wanted a more international nickname, countless people think I'm Polish because of my appearance (!?), and lately I've become increasingly interested in Eastern European cultures and languages. Ryzsard is actually the Polish version of the name Riccardo. Then it becomes Ryzsardsky. Just because it sounds cooler. 
+A few months ago I switched to Ryzsardsky. The reasons were quite simple: I wanted a more international nickname, countless people think I'm Polish because of my appearance (!?), and lately I've become increasingly interested in Eastern European cultures and languages. Ryzsard is actually the Polish version of the name Riccardo. Then it becomes Ryzsardsky. Just because the suffix "sky" sounds cooler. 
 
 I am still open to other ideas and the name will probably change again in the future.
 ## This blog
