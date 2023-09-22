@@ -18,20 +18,22 @@ A few months ago I switched to Ryzsardsky. The reasons were quite simple: I want
 I am still open to other ideas and the name will probably change again in the future.
 ## This blog
 In this writing adventure I can identify three main goals:
-### G1: Retain memories 
-As time passes, I often feel sorrow as I realize that memories fade away. This makes me occasionally regret not retaining such moments with meaningful stories. 
-Therefore, life experiences can continue living on this blog and be shared.
-### G2: Mental clarity
-Writing can be seen as a personal improvement as well. I assume regular posting on the blog enhance oneself communication skills. Inevitably, the process of writing and researching topics also benefits mental clarity.
-### G3: Learn in public
-Recently I've stumbled upon this concept, introduced by [swyx](https://www.swyx.io/learn-in-public). It is about sharing and openly document your learning progress. Could revolve around hobbies, side projects, or simply ideas and knowledge worth sharing. 
-The perks of this paradigm is not just sharing your knowledge, but actively refine and expand it through collaboration. 
-Let's open source stuff and see if it accelerates the learning process. 
+### 1: Retain memories
+As time passes, I often feel sorrow as I constantly realize the inevitable fading of memories. This makes me occasionally regret not retaining such moments with meaningful stories.
+That way, life experiences can continue living on this blog and be shared. 
+Somehow low-effort systems such as Instagram are considered an alternative as well. Especially when it comes to travel, I've been focusing on [videos](https://www.youtube.com/@riccardomarin/videos) as well. But I doubt they can convey the genuine feelings of such moments. Moreover, it is not a reliable source in the long term, considering that some psychological aspects like [false](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3143501/) [memories](https://pubmed.ncbi.nlm.nih.gov/19001589/) or our [tendency](https://pubmed.ncbi.nlm.nih.gov/22894763/) [to](https://pubmed.ncbi.nlm.nih.gov/26666267/) [forget](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4045208/) [bad events](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2676782/). I reckon that a certain degree of authenticity and detail can be reached only through writing.
+### 2: Mental clarity
+Writing can be seen as a personal improvement as well. I assume regular posting on the blog enhance oneself communication skills. Writing - as many other skills - is learned through practice.
+The process of porting thoughts into words forces you to reorganize and elaborate your ideas. A clearer and more logical organisation of thoughts also tends to lead to better decisions. At the same time, it is possible to get more awareness of oneself views. For these reasons I expect writing in this blog to benefit mental clarity.
+### 3: Learn in public
+Recently I've stumbled upon this concept, introduced by [swyx](https://www.swyx.io/learn-in-public). It is about sharing and openly document your learning progress. Could revolve around hobbies, side projects, or simply ideas and knowledge worth sharing.
+Firstly, writing a public post about a certain topic forces me to research and analyze my source to avoid opinionated views.
+Besides, this paradigm is not based on pure knowledge sharing, but also on actively refine and expand it through collaboration. Therefore, I'll adopt an open-source approach and see if it contributes the learning process.
 ### About my 25 readers
 I do not target big audiences, but rather friends and relatives. 
 If I had ["my twenty-five readers"](https://www.goodreads.com/book/show/12517189-the-bethrothed) , I would be more than happy. 
 ### Topics
-Topics I would like to cover include: travel experiences, history, filmmaking, personal finance, digital minimalism, history of cinema, Friulian culture. 
+Topics I would like to cover include: travel experiences, history, language learning, filmmaking, personal finance, digital minimalism, history of cinema, Friulian culture.
 These will be the main focus of the blog, but seldom technical stuff may also appear.
 ## The rules of the game
 - I do not intend to grow a community, or fall into the influencer sindrome
