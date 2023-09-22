@@ -4,7 +4,7 @@ date: 2023-05-08T09:03:20-08:00
 draft: true
 tags: ["life", "finance"]
 ---
-
+	
 ## aka: stop worrying 
 
 Managing finances can be complicated and stressful. Surprisingly, statistically, the more simple approach you take, the more successful the investments. 

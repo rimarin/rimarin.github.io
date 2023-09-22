@@ -26,3 +26,31 @@ Bilbao
 #### 2023
 Romania: Bucuresti, Brasov
 Bulgaria: Sunny Beach, Sofia
+
+
+
+Visited countries:
+- Morocco
+- Spain 
+- Italy
+- Germany
+- France
+- United Kingdom
+- Ireland
+- Vatican State
+- San Marino
+- Portugal
+- Serbia
+- Slovenia
+- Greece
+- Turkey
+- Romania
+- Bulgaria
+- Poland
+- Netherlands
+- Belgium
+- Switzerland
+- Austria
+- Hungary
+- China
+- Czech Republic

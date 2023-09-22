@@ -14,7 +14,14 @@ tags:
 
 
 ### Italy, Grosseto, 2019
-This was my first time hitchhiking alone. As far as I remember, I need to reach the village of Rispescia, ~8km far from Grosseto. 
+
+
+This was my first time hitchhiking alone. As far as I remember, I need to reach the village of Rispescia, ~8km far from Grosseto.
+
+"Meno social, più socialismo"
 
 ### The Netherlands, Utrecht/Amsterdam/Njimegen, 2022
+
+> _"Onbezonnen, dagen in de zon, en eindeloze nachten, het komt wel weer"_ ~ Froujke 
+
 After a long stop from this foolish activity - with the collaboration of a pandemic - in summer 2022 I planned to visit the Netherlands on a low budget.  

@@ -26,5 +26,5 @@ After having moved abroad,
 ### Hope
 Last month, after a 2-years stop due to the pandemic, Corto a Muris happened again!
 Unfortunately I did not have any suitable video to submit which would fit the requirements: Friulian language and territory, ideally comedy story, easy to understand. 
-
+This event 
 
