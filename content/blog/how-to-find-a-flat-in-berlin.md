@@ -26,6 +26,7 @@ Otherwise you could try with some agencies such as HousingAnywhere, Wunderflats,
 
 ## Tips and tricks
 
-- article from munich, paper listing
+- Most landlords are boomers and Germany is one of the least digitized countries in the EU. Consider that sometimes the good old paper might be more effective than online postings: https://angelodias.substack.com/p/how-i-rented-an-apartment-in-munich 
 - preparing all docs and payslips
-- Wg bot
+- Use bots to automate message spamming. Not gonna link them, I am pretty sure they not so difficult to find 
+- The YouTuber Radical Living shows a very effective way to get an apartment in Berlin: https://www.youtube.com/watch?v=838GDzXPVtA

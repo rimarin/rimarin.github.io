@@ -21,10 +21,10 @@ Corto a Muris 2017
 
 From end of 2018 already, since I started working, the time towards filmmaking begins to fall.  
 ### Unstoppable decline?
-After having moved abroad, 
+After having moved abroad, my free time has drastically decreased. In addition, I kinda lost my inspiration 
 
 ### Hope
 Last month, after a 2-years stop due to the pandemic, Corto a Muris happened again!
 Unfortunately I did not have any suitable video to submit which would fit the requirements: Friulian language and territory, ideally comedy story, easy to understand. 
-This event 
-
+This event sparkled some motivation. A second source of motivation was family pressure. In fact I am very grateful for this 
+I am currently working on two videos: one is related to emigration from my land, the other tells a story of falling into depression. Yep, comedy is not my cup of tea.

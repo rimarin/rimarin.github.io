@@ -19,7 +19,7 @@ List of things to do before I die. I'll keep it updated. Realistically impossibl
 6. ✓ Live in another country
 7. ✗ Plant a tree
 8. ✗ Write a book
-9.  ✗ [Read 1000 books (603/1000)](https://www.goodreads.com/user/show/165963974-riccardo-marin)
+9.  ✗ [Read 1000 books (659/1000)](https://www.goodreads.com/user/show/165963974-riccardo-marin)
 10. ✓ Graduate in Computer Science
 11. ✗ Take a hot-air balloon ride
 12. ✗ Be in a submarine
@@ -31,7 +31,7 @@ List of things to do before I die. I'll keep it updated. Realistically impossibl
 18. ✓ Take a walk in the rain
 19. ✗ Learn to play harmonica (only learned _Ode to Joy_)
 20. ✓ Start a company
-21. ✗ Publish a paper -> will probably do in Q1/24
+21. ✗ Publish a paper -> hopefully will do in 2024
 22. ✗ Start a pizza company
 23. ✗ Camino de Santiago
 24. ✓ Fall in love
@@ -61,8 +61,8 @@ List of things to do before I die. I'll keep it updated. Realistically impossibl
 50. ✓ [Create and publish an app in the Play Store](https://play.google.com/store/apps/details?id=com.brancaleone.quackhero)
 51. ✓ Have a rubber duck on my desk
 52. ✗ Have a collection of 100 ducks
-53. ✗ Make the damned favicon work on this website
+53. ✗ Fix the damned favicon on this website
 54. ✗ Pass a coding interview
-55. ~ Become homeless 
+55. ~ Become homeless
 56. ✗ Meet [Alessandro Barbero](https://en.wikipedia.org/wiki/Alessandro_Barbero)
-57. ~ Be kind 
+57. ~ Be kind

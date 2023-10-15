@@ -27,30 +27,31 @@ Bilbao
 Romania: Bucuresti, Brasov
 Bulgaria: Sunny Beach, Sofia
 
-
-
-Visited countries:
-- Morocco
-- Spain 
-- Italy
-- Germany
-- France
-- United Kingdom
-- Ireland
-- Vatican State
-- San Marino
-- Portugal
-- Serbia
-- Slovenia
-- Greece
-- Turkey
-- Romania
-- Bulgaria
-- Poland
-- Netherlands
-- Belgium
-- Switzerland
+#### Summary
+24 visited countries:
 - Austria
-- Hungary
+- Belgium
+- Bulgaria
 - China
 - Czech Republic
+- France
+- Germany
+- Greece
+- Hungary
+- Ireland
+- Italy
+- Morocco
+- Netherlands
+- Poland
+- Portugal
+- Romania
+- San Marino
+- Serbia
+- Slovenia
+- Spain 
+- Switzerland
+- Turkey
+- United Kingdom
+- Vatican State
+
+and looking forward to sabbatical month(s) to explore more remote countries like Costa Rica / Nepal / Jordan / Tanzania.
