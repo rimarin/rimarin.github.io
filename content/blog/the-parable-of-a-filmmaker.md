@@ -8,7 +8,7 @@ I went from being a complete beginner to producing short movies every week, to u
 
 Excalidraw plot
 
-### The seed of a passion
+### A passion was born
 When I was around 7/8 years ago, I decided to start documenting the bliss (or tragedy?) of having a newly-born sister. Any recording tool would suffice, so I started with a mediocre camera available at that time. 
 Initially I was 
 

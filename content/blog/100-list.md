@@ -1,7 +1,7 @@
 ---
 title: 100 list
-date: 2023-09-22
-draft: true
+date: 2023-10-01
+draft: false
 tags:
   - life
   - reflections
@@ -13,7 +13,7 @@ List of things to do before I die. I'll keep it updated. Realistically impossibl
 
 1. ✓ Volunteer abroad
 2. ✓ Learn German (~B2)
-3. ✗ Learn Russian (starting in October 23)
+3. ✗ Learn Russian (starting in Q4/23)
 4. ✗ Learn Arabic (tried and failed)
 5. ✓ Learn bartending (in Barkamp)
 6. ✓ Live in another country
@@ -37,32 +37,37 @@ List of things to do before I die. I'll keep it updated. Realistically impossibl
 24. ✓ Fall in love
 25. ✓ Write my own blog
 26. ✓ Start meditating
-27. ✓ Learn boxing
-28. ~ Learn to dance (Lindy Hop, WS22/23, forgot so much)
-29. ✓ Try hitchhiking
-30. ✓ Travel on a cruise
-31. ✗ See auroras
-32. ✗ Go to South Pole or North Pole
-33. ✗ Visit 100 countries (24% done)
-34. ✗ Graduate in humanistic studies
-35. ~ Learn Chinese
-36. ✗ Travel to America
-37. ✓ Work abroad
-38. ✗ Jump from a plane
-39. ✓ Start investing
-40. ✗ Speak at TED
-41. ✗ Hike to Everest base camp
-44. ✗ Buy crypto in 2013 and become a millionare
-45. ✓ Buy crypto in 2018
-46. ✓ Sell crypto before it's too late
-47. ✗ Volunteer in a reindeer farm in Scandinavia
-48. ✗ Volunteer in a turtle protection program in Central America
-49. ✗ [Volunteer with sailing and beach-cleaning in Northern Norway](https://www.workaway.info/en/host/983542364375)
-50. ✓ [Create and publish an app in the Play Store](https://play.google.com/store/apps/details?id=com.brancaleone.quackhero)
-51. ✓ Have a rubber duck on my desk
-52. ✗ Have a collection of 100 ducks
-53. ✗ Fix the damned favicon on this website
-54. ✗ Pass a coding interview
-55. ~ Become homeless
-56. ✗ Meet [Alessandro Barbero](https://en.wikipedia.org/wiki/Alessandro_Barbero)
-57. ~ Be kind
+27. ✓ Spend 2 weeks in a buddhist centre
+28. ✓ Join Bilbao's festivities "Aste nagusia"
+29. ✓ Try canyoning
+30. ✓ Try kayaking
+31. ✓ Learn boxing
+32. ~ Learn to dance (Lindy Hop, WS22/23, forgot so much)
+33. ✓ Try hitchhiking
+34. ✓ Travel on a cruise
+35. ✗ See auroras
+36. ✗ Go to South Pole or North Pole
+37. ✗ Visit 100 countries (24% done)
+38. ✗ Graduate in humanistic studies
+39. ~ Learn Chinese
+40. ~ Get arrested in China (almost)
+41. ✗ Travel to America
+42. ✓ Work abroad
+43. ✗ Jump from a plane
+44. ✓ Start investing
+45. ✗ Speak at TED
+46. ✗ Hike to Everest base camp
+47. ✗ Buy crypto in 2013 and become a millionare
+48. ✓ Buy crypto in 2018
+49. ✓ Sell crypto before it's too late
+50. ✗ Volunteer in a reindeer farm in Scandinavia
+51. ✗ Volunteer in a turtle protection program in Central America
+52. ✗ [Volunteer with sailing and beach-cleaning in Northern Norway](https://www.workaway.info/en/host/983542364375)
+53. ✓ [Create and publish an app in the Play Store](https://play.google.com/store/apps/details?id=com.brancaleone.quackhero)
+54. ✓ Have a rubber duck on my desk
+55. ✗ Have a collection of 100 ducks
+56. ✗ Fix the damned favicon on this website
+57. ~ Pass a coding interview
+58. ~ Become homeless (Berlin :) )
+59. ✗ Meet [Alessandro Barbero](https://en.wikipedia.org/wiki/Alessandro_Barbero)
+60. ~ Be kind
