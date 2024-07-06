@@ -4,21 +4,14 @@
     <title>J. Random Photoblogger</title>
     <link>https://example.com/</link>
     <description>Recent photos from J. Random Photoblogger</description>
-    <lastBuildDate>Sat, 06 Jul 2024 12:11:04 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 12:21:10 +0200</lastBuildDate>
     <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-<title>Sat, 06 Jul 2024 12:11:04 +0200</title>
-<link>https://example.com/photo/2/</link>
-<pubDate>Sat, 06 Jul 2024 12:11:04 +0200</pubDate>
-<guid>https://example.com/photo/2/</guid>
-<description><![CDATA[<img src="https://example.com/images/2/1920_1720260664_500.jpg" />]]></description>
-</item>
-<item>
-<title>Sat, 06 Jul 2024 11:55:09 +0200</title>
-<link>https://example.com/photo/1/</link>
-<pubDate>Sat, 06 Jul 2024 11:55:09 +0200</pubDate>
-<guid>https://example.com/photo/1/</guid>
-<description><![CDATA[<img src="https://example.com/images/1/1920_500.jpg" />]]></description>
+<title>Sat, 06 Jul 2024 12:12:39 +0200</title>
+<link>https://example.com/photo/3/</link>
+<pubDate>Sat, 06 Jul 2024 12:12:39 +0200</pubDate>
+<guid>https://example.com/photo/3/</guid>
+<description><![CDATA[<img src="https://example.com/images/3/1920_1720260759_500.jpg" />]]></description>
 </item>
   </channel>
 </rss>
