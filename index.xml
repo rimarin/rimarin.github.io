@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J. Random Photoblogger</title>
-    <link>https://example.com/</link>
-    <description>Recent photos from J. Random Photoblogger</description>
-    <lastBuildDate>Sat, 06 Jul 2024 12:21:10 +0200</lastBuildDate>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <title>rimarin.github.io</title>
+    <link>https://rimarin.github.io/</link>
+    <description>Recent photos from rimarin.github.io</description>
+    <lastBuildDate>Sat, 06 Jul 2024 12:25:07 +0200</lastBuildDate>
+    <atom:link href="https://rimarin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
 <title>Sat, 06 Jul 2024 12:12:39 +0200</title>
-<link>https://example.com/photo/3/</link>
+<link>https://rimarin.github.io/photo/1/</link>
 <pubDate>Sat, 06 Jul 2024 12:12:39 +0200</pubDate>
-<guid>https://example.com/photo/3/</guid>
-<description><![CDATA[<img src="https://example.com/images/3/1920_1720260759_500.jpg" />]]></description>
+<guid>https://rimarin.github.io/photo/1/</guid>
+<description><![CDATA[<img src="https://rimarin.github.io/images/1/1920_1720260759_500.jpg" />]]></description>
 </item>
   </channel>
 </rss>
